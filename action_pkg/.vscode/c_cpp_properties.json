@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/multipleye_ros/Reps/tf_ws/src/action_pkg/include/**",
+        "/home/multipleye_ros/Reps/tf_ws/src/robot_setup_tf/include/**",
+        "/home/multipleye_ros/Reps/tf_ws/src/sensor_node/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
